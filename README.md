@@ -7,7 +7,7 @@ Written in Jan 2024 (7th grade) with Joshua Zucker as a math research project. T
 [Games](/games.pdf): On Classical Impartial Games
 Written in Nov 2024 (8th grade) as part of Euler Circle (studying combinatorial game theory).
 
-[ECC](/elliptic.pdf) (in progress): On Elliptic Curve Cryptography and Quantum Algorithms
+[Ellipitic Curves](/elliptic.pdf) (in progress): On Elliptic Curves and their applications
 Written in Mar 2024 (8th grade) as a research project. 
 
 Quaternion (in progress): On Quaternionic Analysis
