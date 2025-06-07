@@ -10,7 +10,7 @@ Written in Nov 2024 (8th grade) as part of Euler Circle (studying combinatorial 
 [Elliptic Curves](/ellipticcurves.pdf): On Elliptic Curves and their applications
 Written in Mar 2024 (8th grade) as a research project. 
 
-Quaternion (in progress): On Quaternionic Analysis
+[Quaternions](/quaternions.pdf): On Quaternionic Analysis
 Written in Apr 2024 (8th grade) as part of Euler Circle (studying complex analysis).
 
 
