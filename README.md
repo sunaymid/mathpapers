@@ -13,7 +13,7 @@ Written in Mar 2024 (8th grade) as a research project.
 [Quaternions](/quaternions.pdf): On Quaternionic Analysis
 Written in Apr 2024 (8th grade) as part of Euler Circle (studying complex analysis).
 
-[Individual](/problems.pdf): Individual Round
+[Individual](/indiv.pdf): Individual Round
 Written in Apr 2024 (8th grade) as practice in problem-writing.
 
 
